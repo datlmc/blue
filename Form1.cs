@@ -65,7 +65,7 @@ namespace giautintronganh
                 textBoxFilePath.Text = savefile.FileName.ToString();
                 pictureBox1.ImageLocation = textBoxFilePath.Text;
                 img.Save(textBoxFilePath.Text);
-
+                ///////helloo xin chaomoi nguoi
             }
                 
         }
