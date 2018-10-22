@@ -67,6 +67,7 @@ namespace giautintronganh
                 img.Save(textBoxFilePath.Text);
                 //xin chao tat ca moi nguoi
             }
+            //wwwwwwwwwwwwwwwww
                 
         }
 
